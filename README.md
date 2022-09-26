@@ -5,3 +5,4 @@ Let's study TedTalk by weekly.
 - [@qtsky89](https://github.com/qtsky89)
 - [@janeljs](https://github.com/janeljs)
 - [@hyeseonko](https://github.com/hyeseonko)
+- [@chloe-codes1](https://github.com/chloe-codes1)
